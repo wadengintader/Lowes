@@ -42,9 +42,8 @@ const Footer = () => {
         © 2026 Lowes Shopper Rewards. All rights reserved.
       </p>
       
-  );
-};
 
 export default Footer;
+
 
 
