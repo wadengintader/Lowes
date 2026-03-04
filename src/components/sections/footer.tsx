@@ -41,9 +41,19 @@ const Footer = () => {
       <p className="text-[#182C54]/60 text-[10px] font-bold mb-4 tracking-tight italic">
         © 2026 Lowes Shopper Rewards. All rights reserved.
       </p>
-      
+
+       {/* Disclaimer */}
+  
+        </p>
+      </div>
+    </footer>
+
+ );
+};
+
 
 export default Footer;
+
 
 
 
